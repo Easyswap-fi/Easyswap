@@ -14,9 +14,9 @@
 This repo contains all the contracts used in Easyswap. 
 |Contract Name|Contract Address|ABI|
 |:---|:---:|:---:|
-|EASY|[-|-|
-|PairFactory|[-|-|
-|Router|[-|-|
+|EASY|-|-|
+|PairFactory|-|-|
+|Router|-|-|
 |SingleLiquidityProvider|-|-|
 |GaugeFactory|-|-|
 |VotingEscrow|-|-|
