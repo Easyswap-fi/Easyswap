@@ -28,8 +28,4 @@ This repo contains all the contracts used in Easyswap.
 
 <br/><br/>
 
-ABIs
-
-<br/>
-
-[ABIs](https://easyswapfi.gitbook.io/docs/contract-address-and-security/abis)
+ABIs [:link:](https://easyswapfi.gitbook.io/docs/contract-address-and-security/abis)
