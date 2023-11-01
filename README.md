@@ -12,16 +12,24 @@
 
 
 This repo contains all the contracts used in Easyswap. 
-|Contract Name|Contract Address|ABI|
-|:---|:---:|:---:|
-|EASY|-|-|
-|PairFactory|-|-|
-|Router|-|-|
-|SingleLiquidityProvider|-|-|
-|GaugeFactory|-|-|
-|VotingEscrow|-|-|
-|VeArtProxy|-|-|
-|BribeFactory|-|-|
-|Minter|-|-|
-|Voter|-|-|
-|RewardsDistributor|-|-|
+|Contract Name|Contract Address|
+|:---|:---:|
+|EASY|-|
+|PairFactory|-|
+|Router|-|
+|SingleLiquidityProvider|-|
+|GaugeFactory|-|
+|VotingEscrow|-|
+|VeArtProxy|-|
+|BribeFactory|-|
+|Minter|-|
+|Voter|-|
+|RewardsDistributor|-|
+
+<br/><br/>
+
+ABIs
+
+<br/>
+
+[ABIs](https://easyswapfi.gitbook.io/docs/contract-address-and-security/abis)
