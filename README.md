@@ -6,9 +6,15 @@
 
 
 
-<br/><br/><br/><br/>
+<br/><br/>
 
+Website : https://easyswap.fi/
 
+Docs : https://easyswapfi.gitbook.io/
+
+Twitter : https://twitter.com/easyswapfi
+
+<br/><br/>
 
 
 This repo contains all the contracts used in Easyswap. 
